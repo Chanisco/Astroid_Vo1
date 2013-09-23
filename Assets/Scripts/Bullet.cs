@@ -12,10 +12,10 @@ public class Bullet : MonoBehaviour {
 	void Update () {
 	 	transform.Translate(Vector3.forward * 100 * Time.deltaTime);
 	}
-	void OnCollisionEnter(Collision col)
-	{
-		if(col.collider.name == "Enemy"){
-			Destroy(gameObject);
+	
+	void OnTriggerEnter(Collider other) {
+		if(other.tag == Tags.Enemy){
+			Destroy(gameObject);	
 		}
 	}
 }

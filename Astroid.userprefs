@@ -1,17 +1,33 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Bullet.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerCollision.cs">
     <Files>
       <File FileName="../New Unity Project 1/Assets/Speler.cs" Line="60" Column="2" />
+      <File FileName="../Zombierun/Assets/Player.cs" Line="8" Column="2" />
       <File FileName="Assets/Scripts/PlayerCollision.cs" Line="29" Column="25" />
       <File FileName="Assets/Scripts/Tags.cs" Line="10" Column="39" />
       <File FileName="Assets/Scripts/Enemy.cs" Line="9" Column="60" />
       <File FileName="Assets/Scripts/EnemyCollision.cs" Line="6" Column="24" />
       <File FileName="Assets/Scripts/Player.cs" Line="11" Column="24" />
       <File FileName="Assets/Scripts/FieldBehavior.cs" Line="7" Column="3" />
-      <File FileName="../Zombierun/Assets/Player.cs" Line="8" Column="2" />
       <File FileName="Assets/Scripts/Bullet.cs" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PlayerCollision.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

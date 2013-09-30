@@ -3,7 +3,7 @@ using System.Collections;
 
 public class EnemyCollision : MonoBehaviour {
 	
-	public float List = 2;
+	public float List;
 	void OnTriggerEnter(Collider other) {
 		if(other.tag == Tags.Down){
 			Vector3 positionZtop = transform.position;

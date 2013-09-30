@@ -9,7 +9,7 @@ public class Player : MonoBehaviour {
     public float turnSpeed = 200f;
 	float reload = 0;
 	public AudioClip Dead;
-	
+
     void Update ()
     {
 		reload += Time.deltaTime;

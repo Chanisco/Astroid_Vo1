@@ -6,12 +6,12 @@
       <File FileName="../Zombierun/Assets/Player.cs" Line="24" Column="17" />
       <File FileName="Assets/Scripts/PlayerCollision.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Tags.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Enemy.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/EnemyCollision.cs" Line="30" Column="71" />
-      <File FileName="Assets/Scripts/Player.cs" Line="39" Column="1" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="9" Column="60" />
+      <File FileName="Assets/Scripts/EnemyCollision.cs" Line="6" Column="20" />
+      <File FileName="Assets/Scripts/Player.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/FieldBehavior.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Bullet.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Ending.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="15" Column="2" />
+      <File FileName="Assets/Scripts/Ending.cs" Line="8" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

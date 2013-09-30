@@ -1,15 +1,14 @@
 /Library
 /Temp
+# OS X only:
+.DS_Store
+*.swp
+*.Trashes
      
-    # OS X only:
-    .DS_Store
-    *.swp
-    *.Trashes
-     
-    # All platforms:
+# All platforms:
 
-    *.csproj
-    *.pidb
-    *.unityproj
-    *.sln
-    *.userprefs
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
